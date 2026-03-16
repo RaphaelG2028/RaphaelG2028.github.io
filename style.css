@@ -20,4 +20,9 @@ h1, h2, h3 {
   --bs-primary-rgb: 21, 94, 131 !important;
   --bs-primary-bg: rgb(68, 90, 233) !important;
   --bs-primary-bg-subtle: rgb(15, 38, 79) !important;
+
+}
+#Raphael {
+    color: aliceblue;
+    padding: 10px;
 }
